@@ -472,7 +472,7 @@ Page.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Page.BackgroundTransparency = 1.10
 Page.Position = UDim2.new(0.265426834, 0, 0.075000003, 0)
 Page.Size = UDim2.new(0, 400, 0, 400)
-Page.Image = "http://www.roblox.com/asset/?id=" .. tostring(16633756996)
+Page.Image = "http://www.roblox.com/asset/?id=" .. tostring(16806404076)
 
     local MainPage = Instance.new("Frame")
     MainPage.Name = "MainPage"
@@ -938,7 +938,7 @@ Page.Image = "http://www.roblox.com/asset/?id=" .. tostring(16633756996)
         ImageLabel.BorderSizePixel = 0
         ImageLabel.Position = UDim2.new(0, 5, 0, 6)
         ImageLabel.Size = UDim2.new(0, 20, 0, 20)
-        ImageLabel.Image = "rbxassetid://16633756996"
+        ImageLabel.Image = "rbxassetid://16806404076"
         ImageLabel.ImageColor3 = Color3.fromRGB(255, 255, 255)
 
         Space.Name = "Space"
@@ -1292,7 +1292,7 @@ Page.Image = "http://www.roblox.com/asset/?id=" .. tostring(16633756996)
         ImageLabel.BorderSizePixel = 0
         ImageLabel.Position = UDim2.new(0, 7.5, 0, 7.5)
         ImageLabel.Size = UDim2.new(0, 30, 0, 30)
-        ImageLabel.Image = "rbxassetid://16633756996"
+        ImageLabel.Image = "rbxassetid://16806404076"
             
         Title.Parent = SliderFrame_2
         Title.BackgroundColor3 = Color3.fromRGB(150, 150, 150)
@@ -7054,7 +7054,7 @@ wait(0.5)
 elseif state and (not findItem("Monster Magnet", 1) or not findItem("Terror Eyes", 2) and not findItem("Electric Wing", 8) and not findItem("Fool's Gold", 20) and not findItem("Shark Tooth", 10)) then
     _G.BjirAnchorCuy = false
     game.StarterGui:SetCore("SendNotification", {
-        Icon = "rbxassetid://16633756996",
+        Icon = "rbxassetid://16806404076",
         Title = "! WARNING !", 
         Text = "You need more materials \nto buy a Monster Magnet."
     })
@@ -13691,7 +13691,7 @@ Misc:AddButton("Kaitun Cap", function(value)
 		for k,v in pairs(cac) do
 			if ListHuhu[v] and game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("Buy"..v,true) == 1 then 
 				local huhu = Instance.new("ImageLabel",MeleeG)
-				huhu.Image = "rbxassetid://16633756996"
+				huhu.Image = "rbxassetid://16806404076"
 				huhu.ImageRectSize = Vector2.new(100,100)
 				huhu.ImageRectOffset = ListHuhu[v]*100
 			end
