@@ -404,7 +404,7 @@ function Update:Window(text,logo,keybind)
     UserImage.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
     UserImage.Position = UDim2.new(0, 10, 0, -15)
     UserImage.Size = UDim2.new(0, 25, 0, 25)
-    UserImage.Image = "rbxassetid://16633756996"
+    UserImage.Image = "rbxassetid://16806404076"
     local UserImageCorner = Instance.new("UICorner")
     UserImageCorner.CornerRadius = UDim.new(0, 100)
     UserImageCorner.Name = "UserImageCorner"
@@ -828,7 +828,7 @@ Page.Image = "http://www.roblox.com/asset/?id=" .. tostring(16633756996)
         ImageButton.BorderSizePixel = 0
         ImageButton.Position = UDim2.new(0, 350, 0, 6)
         ImageButton.Size = UDim2.new(0, 20, 0, 20)
-        ImageButton.Image = "rbxassetid://16633756996"
+        ImageButton.Image = "rbxassetid://16806404076"
         ImageButton.ImageColor3 = Color3.fromRGB(255, 255, 255)
 
         UICorner_2.CornerRadius = UDim.new(0, 5)
