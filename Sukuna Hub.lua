@@ -11395,8 +11395,8 @@ end)
 OrionLib:Init()
 
 OrionLib:MakeNotification({
-    Name = "Night Hub",
+    Name = "Hưng Hub",
     Content = "Loading Config Complete!!",
-    Image = "rbxassetid://4483345998",
+    Image = "rbxassetid://16633756996",
     Time = 5
 })
