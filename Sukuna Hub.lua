@@ -5208,7 +5208,7 @@ NguyenTien:AddSeperator("Thông Tin Phát Triển")
 NguyenTien:AddLabel("Nhà Sáng Lập: Lý Hoàng Hưng")
 NguyenTien:AddLabel("Thank you for using our script\n If you want to make your own script,\ninbox fb:facebook.com/hung8121 and zl:0867973915!")
 
-NguyenTien:AddLabel("Cảm ơn bạn đã sử dụng script của chúng tôi\nMuốn làm script riêng cho mình thì ib\nfb:facebook.com/hung8121 and zl:0867973915")
+NguyenTien:AddLabel("\nCảm ơn bạn đã sử dụng script của chúng tôi\nMuốn làm script riêng cho mình thì ib\nfb:facebook.com/hung8121 and zl:0867973915")
 
 NguyenTien:AddSeperator("Mạng Xã Hội")
 NguyenTien:AddButton("Fb Chủ Source Script",function()
