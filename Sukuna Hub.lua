@@ -7149,7 +7149,7 @@ spawn(function()
 						game.StarterGui:SetCore("SendNotification", {
 							Title = "Notification", 
 							Text = "Not Have Death Step" ,
-							Icon = "http://www.roblox.com/asset/?id=15435099885",
+							Icon = "http://www.roblox.com/asset/?id=16806404076",
 							Duration = 2.5
 						})
 					end
@@ -7161,7 +7161,7 @@ spawn(function()
 						game.StarterGui:SetCore("SendNotification", {
 							Title = "Notification", 
 							Text = "Not Have SharkMan Karate" ,
-							Icon = "http://www.roblox.com/asset/?id=15435099885",
+							Icon = "http://www.roblox.com/asset/?id=16806404076",
 							Duration = 2.5
 						})
 					end
@@ -7173,7 +7173,7 @@ spawn(function()
 						game.StarterGui:SetCore("SendNotification", {
 							Title = "Notification", 
 							Text = "Not Have Electric Claw" ,
-							Icon = "http://www.roblox.com/asset/?id=15435099885",
+							Icon = "http://www.roblox.com/asset/?id=16806404076",
 							Duration = 2.5
 						})
 					end
@@ -7183,7 +7183,7 @@ spawn(function()
 								game.StarterGui:SetCore("SendNotification", {
 									Title = "Notification", 
 									Text = "Not Have Enough Material" ,
-									Icon = "http://www.roblox.com/asset/?id=15435099885",
+									Icon = "http://www.roblox.com/asset/?id=16806404076",
 									Duration = 2.5
 								})
 							else
@@ -7194,7 +7194,7 @@ spawn(function()
 						game.StarterGui:SetCore("SendNotification", {
 							Title = "Notification", 
 							Text = "Not Have Dragon Talon" ,
-							Icon = "http://www.roblox.com/asset/?id=15435099885",
+							Icon = "http://www.roblox.com/asset/?id=16806404076",
 							Duration = 2.5
 						})
 					end
