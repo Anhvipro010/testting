@@ -1731,7 +1731,7 @@ function Update:Window(text,logo,keybind)
     Ping.Position = UDim2.new(0.28, 0,0.074, 0)
     Ping.Size = UDim2.new(0, 225, 0, 25)
     Ping.Font = Enum.Font.SourceSansBold
-    Ping.Text = "Blox Fruit | discord.gg/Dg5nr8CrVV          [RightControl]"
+    Ping.Text = "Blox Fruit | https://www.facebook.com/hung8121          [Lý Hoàng Hưng]"
     Ping.TextColor3 = Color3.fromRGB(255,255,255)
     Ping.TextSize = 14.000
     Ping.TextXAlignment = Enum.TextXAlignment.Left
@@ -5203,24 +5203,23 @@ local S = Library:AddTab("Cửa hàng","4483345998")
 local D = Library:AddTab("Cửa hàng Fruit","4483345998")
 local Misc = Library:AddTab("Khác","4483345998")
 --- Thông Tin
-NguyenTien:AddLabel("Do Phiên Dịch Không Hiểu Hết.\n Muốn Góp Ý Hãy Tham Gia Discord.")
+NguyenTien:AddLabel("Source Script By LY HAONG HUNG.")
 NguyenTien:AddSeperator("Thông Tin Phát Triển")
-NguyenTien:AddLabel("Nhà Sáng Lập: Nguyen Tien (Tiny)")
-NguyenTien:AddLabel("Hỗ Trợ Code: Lynx (Bạn Gái Của Tôi)")
-NguyenTien:AddLabel("Ui: Thunderz Hub")
-NguyenTien:AddLabel("Thank You For Assisting Me With\n The Script Interface!")
+NguyenTien:AddLabel("Nhà Sáng Lập: Lý Hoàng Hưng")
+NguyenTien:AddLabel("Thank you for using our script\n If you want to make your own script, inbox fb: facebook.com/hung8121 and zl: 0867973915!")
+NguyenTien:AddLabel("Cảm ơn bạn đã sử dụng script của chúng tôi\nMuốn làm script riêng cho mình thì ib fb : facebook.com/hung8121 and zl : 0867973915")
 
 NguyenTien:AddSeperator("Mạng Xã Hội")
-NguyenTien:AddButton("Discord Sever",function()
-setclipboard("https://discord.gg/Dg5nr8CrVV")
+NguyenTien:AddButton("Fb Chủ Source Script",function()
+setclipboard("https://www.facebook.com/hung8121")
 Notif.New("Copying To Clipboard Done🎉", 3)
 end)
-NguyenTien:AddButton("YouTube Official",function()
-setclipboard("https://youtube.com/@imtienguyenz")
+NguyenTien:AddButton("Fb Chủ Script",function()
+setclipboard("www.facebook.com/profile.php?id=100093864497754")
 Notif.New("Copying To Clipboard Done🎉", 3)
 end)
-NguyenTien:AddButton("Facebook Official Owner",function()
-setclipboard("https://www.facebook.com/minhtien.modder")
+NguyenTien:AddButton("Facebook Owner",function()
+setclipboard("https://www.facebook.com/hung8121")
 Notif.New("Copying To Clipboard Done🎉", 3)
 end)
 ---- Trang Chủ
