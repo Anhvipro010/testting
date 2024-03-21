@@ -1,4 +1,4 @@
---[[ Made By Nguyen Minh Tien
+--[[ Made By LY HOANG HUNG
 ⠀⠀⠀⠀⠀⢀⣶⣶⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠸⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⣠⣬⣍⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -8433,7 +8433,7 @@ wait(0.5)
 elseif state and (not findItem("Monster Magnet", 1) or not findItem("Terror Eyes", 2) and not findItem("Electric Wing", 8) and not findItem("Fool's Gold", 20) and not findItem("Shark Tooth", 10)) then
     _G.BjirAnchorCuy = false
     game.StarterGui:SetCore("SendNotification", {
-        Icon = "rbxassetid://15435099885",
+        Icon = "rbxassetid://16806404076",
         Title = "! WARNING !", 
         Text = "You need more materials \nto buy a Monster Magnet."
     })
@@ -10701,7 +10701,7 @@ end)
                 if _G.AutoObservation then
                     if game:GetService("Players").LocalPlayer.VisionRadius.Value >= 3000 then
                         game:GetService("StarterGui"):SetCore("SendNotification", {
-                            Icon = "rbxassetid://15435099885";
+                            Icon = "rbxassetid://16806404076";
                             Title = "Trạng Thái Haki", 
                             Text = "Bạn Đã Max Điểm"
                         })
