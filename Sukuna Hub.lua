@@ -1731,7 +1731,7 @@ function Update:Window(text,logo,keybind)
     Ping.Position = UDim2.new(0.28, 0,0.074, 0)
     Ping.Size = UDim2.new(0, 225, 0, 25)
     Ping.Font = Enum.Font.SourceSansBold
-    Ping.Text = "Blox Fruit | https://www.facebook.com/hung8121          [Lý Hoàng Hưng]"
+    Ping.Text = "Blox Fruit | discord.gg/Dg5nr8CrVV          [RightControl]"
     Ping.TextColor3 = Color3.fromRGB(255,255,255)
     Ping.TextSize = 14.000
     Ping.TextXAlignment = Enum.TextXAlignment.Left
@@ -2331,7 +2331,7 @@ function Update:Window(text,logo,keybind)
         ImageButton.Position = UDim2.new(0, 352, 0, 4)
         ImageButton.Size = UDim2.new(0, 23, 0, 23)
         ImageButton.ZIndex = 2
-        ImageButton.Image = "rbxassetid://15435099885"
+        ImageButton.Image = "rbxassetid://3926311105"
         ImageButton.ImageColor3 = Color3.fromRGB(255, 255, 255)
         ImageButton.ImageRectOffset = Vector2.new(940, 784)
         ImageButton.ImageRectSize = Vector2.new(48, 48)
